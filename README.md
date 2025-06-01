@@ -11,7 +11,7 @@ Perform a full EDA workflow on the Titanic dataset to explore survival patterns 
 ## Files Included
 
 - `titanic_eda_assignment.ipynb` or `titanic_eda_assignment.py` – EDA code
-- `titanic_eda_assignment.csv` – Dataset file
+- `Titanic.csv` – Dataset file
 - `README.md` – Project overview
 
 ---
